@@ -1,0 +1,5 @@
+outs:
+- md5: a95519a13b614abfd2989d1df8dbdf76
+  size: 60178
+  hash: md5
+  path: plot.png
